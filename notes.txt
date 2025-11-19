@@ -1,0 +1,27 @@
+A. Git Setup & Basic Commands
+1. Initialize & Track Project
+
+Create a new folder and turn it into a Git repository.
+
+Add a file named notes.txt.
+
+Stage the file.
+
+Commit the file with the message:
+"Initial commit: added notes.txt"
+
+👉 Commands to practice:
+git init, git status, git add, git commit, git log
+
+2. Modify & Commit
+
+Update notes.txt by adding a second line.
+
+Check which lines changed.
+
+Stage only the modified part using git add -p.
+
+Commit the changes.
+
+👉 Commands to practice:
+git diff, git add -p, git commit -m
